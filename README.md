@@ -24,7 +24,7 @@ Here are some of the fantastic projects created by our students:
 </br></br>
 2. **batch 02**
    - Description: Batch 02
-   - [Link to Project Folder](link_to_project_folder)
+   - [Link to Project Folder](https://github.com/twahanur/Python-training-student-tasks/tree/main/Batch02)
 </br></br>
 2. **batch 03**
    - Description: Batch 02 comming soon.....

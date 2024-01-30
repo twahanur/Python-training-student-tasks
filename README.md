@@ -3,11 +3,26 @@
 Welcome to the Sheikh Russel School of Future (SRSOF) Python Training repository! This repository contains projects created by our talented school students using their basic knowledge of Python. The projects are developed in the Sheikh Russel Digital Lab as part of our Python programming curriculum.
 
 ## Table of Contents
+- [Trainer](#🌐Trainer)
 - [Overview](#overview)
 - [Projects](#projects)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+
+## 🌐 Connect With Trainer
+<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fb.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="twahanur" height="30" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/twahanur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="twahanur" height="30" width="40" /></a>
+</p>
+
 
 ## Overview
 
@@ -34,8 +49,18 @@ Here are some of the fantastic projects created by our students:
 </br></br>
 
 4. **batch 04**
-   - Description: Batch 04 comming soon.....
-   - [Link to Project Folder](link_to_project_folder)
+   - Description: Batch 04 
+   - [Link to Project Folder](https://github.com/twahanur/Python-training-student-tasks/tree/main/Batch04)
+</br></br>
+
+4. **batch 05**
+   - Description: Batch 05
+   - [Link to Project Folder](https://github.com/twahanur/Python-training-student-tasks/tree/main/Batch05)
+</br></br>
+
+4. **batch 06**
+   - Description: Batch 06
+   - [Link to Project Folder](https://github.com/twahanur/Python-training-student-tasks/tree/main/Batch06)
 
 <!-- Add more projects as needed -->
 
